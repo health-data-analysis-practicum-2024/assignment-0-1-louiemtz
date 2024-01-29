@@ -4,6 +4,9 @@ author: "Your Name"
 date: "Today's date"
 output: html_document
 ---
+
+Welcome to the class! I am looking forward to a rewarding semester!
+
 **Due Wednesday, January 24 @ 11:59pm through Github**
 
 Please provide some brief information about yourself through this R Markdown (`.Rmd`) file that you will submit through Github.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this as your opportunity to practice the homework submission process.
